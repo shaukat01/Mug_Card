@@ -1,5 +1,5 @@
 #About : 
-
+This is simple Mug Card and the technology used behind is only HTML and CSS.  
 
 #App Hosted on : 
 Netlify
